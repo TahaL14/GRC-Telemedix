@@ -2,7 +2,7 @@
 
 Étude de cas **fictive** en gouvernance, risques et conformité (GRC) appliquée à la e-santé en France : analyse de risques EBIOS Risk Manager, AIPD, déclaration d'applicabilité ISO 27001:2022, matrices d'écarts HDS et NIS2, plan d'actions et PSSI.
 
-> **Avertissement.** Télémédix SAS, ses clients et ses fournisseurs sont inventés. Ce travail est un exercice de formation : il ne constitue ni un audit ni un avis juridique. État du droit arrêté au 11 novembre 2026.
+> **Avertissement.** Télémédix SAS, ses clients et ses fournisseurs sont inventés. Ce travail est un exercice de formation : il ne constitue ni un audit ni un avis juridique. 
 
 ## Le cas en bref
 
