@@ -2,7 +2,7 @@
 
 Ce dossier est un exercice sur un cas fictif. Il ne constitue ni un avis juridique ni un audit. Les points ci-dessous doivent être contrôlés sur les textes officiels avant toute présentation.
 
-## A. Points à vérifier
+## Points à vérifier
 
 Confiance : **forte** (fait établi et recoupé), **moyenne** (raisonnement défendable, à confirmer), **faible** (hypothèse de travail).
 
@@ -32,37 +32,3 @@ Confiance : **forte** (fait établi et recoupé), **moyenne** (raisonnement déf
 | 22 | Formule du niveau de menace | (dépendance × pénétration) / (maturité × confiance) | Forte | Guide EBIOS Risk Manager de l'ANSSI, atelier 3 |
 | 23 | Délais de notification NIS2 | 24 heures, 72 heures, un mois | Forte | Directive, art. 23 |
 
-## B. Sources consultées (novembre 2026)
-
-**Transposition de NIS2**
-- Le Monde Informatique, « NIS 2 : la loi Résilience arrive enfin à l'Assemblée », 10 novembre 2026 : https://www.lemondeinformatique.fr/cybersecurite-conformite/nis-2-la-loi-resilience-arrive-enfin-a-l-assemblee
-- InformatiqueNews, « NIS 2 : ce que la loi Résilience change pour les DSI, RSSI et dirigeants », novembre 2026 : https://www.informatiquenews.fr/nis2-loi-resilience-obligations-entreprises-251585
-- Leto, « Transposition NIS 2 : examen à l'Assemblée le 9 novembre 2026 » : https://www.leto.legal/news/nis-2-projet-loi-resilience-assemblee-nationale-9-novembre-2026
-- Phinasoft, « Loi résilience : où en est la transposition de NIS 2 en France ? », 8 octobre 2026 : https://phinasoft.com/fr/blog/loi-resilience-transposition-nis-2-france/
-
-**HDS**
-- ANS, communiqué du 16 mai 2024 sur la publication du référentiel HDS : https://esante.gouv.fr/index%2ephp/espace-presse/publication-au-journal-officiel-du-referentiel-de-certification-hds-souverainete-des-donnees-et-ameliorations-du-referentiel
-- ANS, webinaire HDS du 15 octobre 2025 (transition v2, activité 5) : https://industriels.esante.gouv.fr/sites/default/files/media/document/Webinaire-HDS_20251015_vf.pdf
-- ANS, session collective HDS du 7 octobre 2026 : https://esante.gouv.fr/sites/default/files/media/document/20261007_ANS_SessionCollective_HDS%20v1.0.pdf
-- ANS, travaux pédagogiques sur l'activité 5, session du 4 novembre 2026 : https://esante.gouv.fr/sites/default/files/media/document/20261104_ANS_SessionCollective_HDS%20v0.7.pdf
-- ANS, page HDS : https://esante.gouv.fr/produits-services/hds
-
-**Téléconsultation**
-- ANS, « Le référentiel d'interopérabilité, de sécurité et d'éthique des SI de téléconsultation désormais opposable », 14 février 2024 : https://esante.gouv.fr/actualites/toutes-les-actualites/le-referentiel-d-interoperabilite-de-securite-et-d-ethique-des-systemes-d-informations-de
-- HAS, référentiel de bonnes pratiques applicable aux sociétés de téléconsultation : https://has-sante.fr/jcms/p_3470126/fr/teleconsultation-referentiel-de-bonnes-pratiques-professionnelles-applicable-aux-societes-de-teleconsultation
-
-**Protection des données**
-- Conseil national de l'Ordre des médecins, FAQ sur la protection des données (durées de conservation) : https://www.conseil-national.medecin.fr/medecin/exercice/protection-donnees-faq
-
-## C. Textes de référence à consulter à la source
-
-| Texte | Éditeur |
-|---|---|
-| Guide EBIOS Risk Manager et fiches méthodes | ANSSI (cyber.gouv.fr) |
-| Guide d'hygiène informatique | ANSSI |
-| Directive (UE) 2022/2555 et règlement d'exécution (UE) 2024/2690 | EUR-Lex |
-| Règlement (UE) 2016/679 (RGPD) | EUR-Lex |
-| Guides AIPD, guide du sous-traitant, guide de la sécurité des données personnelles | CNIL (cnil.fr) |
-| Référentiel de certification HDS, PGSSI-S, référentiel INS, Pro Santé Connect | ANS (esante.gouv.fr) |
-| Code de la santé publique | Légifrance |
-| ISO/IEC 27001:2022 et 27002:2022 | ISO, AFNOR |
