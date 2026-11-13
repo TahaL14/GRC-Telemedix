@@ -56,11 +56,6 @@ python3 outils/verifier_coherence.py   # contrôle de cohérence
 bash outils/generer_pdf.sh             # export PDF (pandoc + Chrome)
 ```
 
-## Trois enseignements
-
-1. **« Notre hébergeur est certifié HDS » ne suffit pas.** La certification couvre les activités que chaque acteur réalise. Un éditeur qui administre lui-même sa production réalise une activité d'hébergement.
-2. **Les parties prenantes les plus dangereuses ne sont pas les sous-traitants sous contrat.** Le calcul de l'atelier 3 place en zone de danger les postes des praticiens et les dépendances logicielles.
-3. **Une seule analyse de risques alimente quatre cadres.** RGPD, HDS, ISO 27001 et NIS2 se recouvrent largement : le plan d'actions issu d'EBIOS RM couvre tous les écarts majeurs relevés.
 
 ## Référentiels utilisés
 
@@ -68,11 +63,7 @@ EBIOS Risk Manager (ANSSI) ; RGPD et guides AIPD de la CNIL ; ISO/IEC 27001:2022
 
 ## Limites
 
-- Cas fictif : aucune donnée réelle, aucun entretien, aucune preuve d'audit.
-- Vraisemblances estimées par la méthode expresse.
-- Numéros d'exigence HDS non reproduits ; intitulés de l'Annexe A à contrôler sur la norme.
-- Qualifications juridiques (activité 5 HDS, NIS2, rôles RGPD) présentées avec leur niveau de confiance en annexe.
+Cas fictif : aucune donnée réelle, aucun entretien, aucune preuve d'audit.
 
-## Auteur
 
-Taha LAHJOUJI, M2 Cybersécurité et e-santé, Université Paris Cité. Novembre 2026.
+
