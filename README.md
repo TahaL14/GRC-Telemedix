@@ -38,23 +38,6 @@
 | [annexes/sources-et-points-a-verifier.md](annexes/sources-et-points-a-verifier.md) | Niveau de confiance de chaque affirmation et sources |
 | [pdf/dossier-complet.pdf](pdf/dossier-complet.pdf) | Export PDF de l'ensemble |
 
-## Fil conducteur : la traçabilité
-
-Chaque élément renvoie au suivant par un identifiant stable :
-
-```
-Événement redouté (ER) → Scénario stratégique (SS) → Risque (R01 à R10)
-        → Mesure de l'Annexe A (5.1 à 8.34) → Action (A01 à A28) → Indicateur
-```
-
-Exemple : la divulgation massive de données (ER1) peut résulter d'un défaut de contrôle d'accès de l'API (SS2, risque R02). Ce risque justifie notamment les mesures 8.3, 8.26 et 8.28, mises en œuvre par l'action A14, dont l'indicateur est la couverture des points d'accès par des tests d'autorisation.
-
-Le script `outils/verifier_coherence.py` contrôle cette chaîne : identifiants existants, niveaux de risque conformes à la matrice, calcul des niveaux de menace, décomptes de la déclaration d'applicabilité, cohérence entre le traitement des risques et le plan d'actions.
-
-```bash
-python3 outils/verifier_coherence.py   # contrôle de cohérence
-bash outils/generer_pdf.sh             # export PDF (pandoc + Chrome)
-```
 
 
 ## Référentiels utilisés
